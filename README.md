@@ -5,15 +5,6 @@ An open-source Python pipeline for the content-aware spatial compaction of spars
 
 CASC reorganises segmented foreground structures into a compact image representation by removing empty background regions and repacking objects into a reduced spatial domain while preserving object-local pixel intensities exactly.
 
-Repository Structure
-CASC/
-│
-├── CASC_v1.0.py
-├── README.md
-├── example_data/
-├── figures/
-├── results/
-└── LICENSE
 Installation
 Requirements
 
