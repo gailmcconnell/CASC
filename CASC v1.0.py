@@ -24,11 +24,11 @@ from skimage import exposure, filters, measure, morphology
 
 # ----------------------------- USER SETTINGS -----------------------------
 
-INPUT_PATH = r"C:\Users\acp98112\OneDrive - University of Strathclyde\Documents\Research\Compress\FPM\Image.tif"
+INPUT_PATH = r"path_to_input_image.tif"
 
-OUTPUT_TIF = r"C:\Users\acp98112\OneDrive - University of Strathclyde\Documents\Research\Compress\FPM\test_compacted25.tif"
-OUTPUT_METRICS = r"C:\Users\acp98112\OneDrive - University of Strathclyde\Documents\Research\Compress\FPM\test_compacted_metrics.json"
-OUTPUT_COMPONENTS = r"C:\Users\acp98112\OneDrive - University of Strathclyde\Documents\Research\Compress\FPM\test_compacted_components.csv"
+OUTPUT_TIF = r"path_to_output_image.tif"
+OUTPUT_METRICS = r"path_to_metrics.json"
+OUTPUT_COMPONENTS = r"path_to_components.csv"
 
 PADDING = 8
 MIN_OBJECT_AREA = 25
