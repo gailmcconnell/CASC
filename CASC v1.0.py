@@ -2,7 +2,7 @@
 """
 Created on 30 March, 08:02:06 2026
 
-@author: Gail McConnell, SIPBS, University of Strathclyde
+@author: Gail McConnell, SIPBS, University of Strathclyde, UK
 """
 
 
