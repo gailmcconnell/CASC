@@ -25,7 +25,6 @@ from skimage import exposure, filters, measure, morphology
 # ----------------------------- USER SETTINGS -----------------------------
 
 INPUT_PATH = r"path_to_input_image.tif"
-
 OUTPUT_TIF = r"path_to_output_image.tif"
 OUTPUT_METRICS = r"path_to_metrics.json"
 OUTPUT_COMPONENTS = r"path_to_components.csv"
